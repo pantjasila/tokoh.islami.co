@@ -1,0 +1,20 @@
+{
+  "name": "workroom",
+  "short_name": "workroom",
+  "icons": [
+      {
+          "src": "/static/img/icons/pp144.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/static/img/icons/pp200.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
